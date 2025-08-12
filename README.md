@@ -1,6 +1,8 @@
 # Telegram Username Checker
 A simple script to check the availability of Telegram usernames without Userbot
 
+A new code update will be available after 10⭐️ on this repository
+
 ## 🚀 Features
 - Checks if a Telegram username is **available** or **taken**
 - Colored console output (optional)
@@ -75,3 +77,4 @@ UQANkf04uqTZ6o2pRO83sCYpxGFyx7opT9Tcp5CRJ1NZ1NO
 ```
 
 > **⚠ Note: A username can be "available" on fragment.com but still invalid in Telegram - such cases will be marked as: `[+] username - available (possibly invalid)`**
+
